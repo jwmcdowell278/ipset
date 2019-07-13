@@ -1,4 +1,5 @@
 #!/bin/bash
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
 IP_TMP=/tmp/ip.tmp
 IP_BLACKLIST=/etc/ip-blacklist.conf
 IP_BLACKLIST_TMP=/tmp/ip-blacklist.tmp
